@@ -1,6 +1,6 @@
 <p align="center">
   <a href = "https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics" rel="noopener">
-<img src="https://github.com/luis-c2255/Capstone_Project_Google_Data_Analysis_BikeShare/blob/main/images/Bike_Sharing_Insights%20-Chicago.png" alt="Google Data Analytics Capstone Project"></a>
+<img src="https://github.com/luis-c2255/Capstone_Project_Google_Data_Analysis_BikeShare/blob/main/Visualizations/Bike_Sharing_Insights%20-Chicago.png" alt="Google Data Analytics Capstone Project"></a>
 </p>
 
 # Cyclistic Bike-Share Analysis: From Casual Riders to Annual Members
