@@ -42,7 +42,8 @@ I utilized **SQL** to process over 5.8 million rows of data.
 My analysis revealed distinct usage patterns between the two groups:
 
 - **Ride Duration**: Casual riders have an average ride duration nearly double that of annual members, suggesting leisure or tourist usage.
-![Ride Frequency by Day](https://github.com/luis-c2255/Capstone_Project_Google_Data_Analysis_BikeShare/blob/main/images/Distribution%20of%20rides%20by%20time%20and%20member.png)
+  
+![Ride Frequency by Day](/Visualizations/Distribution_members.png)
 
 - **Weekly Trends**:
 
